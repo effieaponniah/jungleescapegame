@@ -1,9 +1,13 @@
+/*
+   This program is written by Effiea Ponniah on May 2019
+*/
+
 import hsa.Console;
 import java.awt.*;
 import java.io.*;
 import sun.audio.*;
 
-public class JungleEscapePonniah
+public class JungleEscape
 {
     static Console c;
     static Console e;
